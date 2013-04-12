@@ -1,0 +1,5 @@
+@import "bourbon";
+
+.button_c{
+  @include button(shiny,#ff0000);
+}
