@@ -4,10 +4,10 @@
 /* mixins, variables, etc. */
 
 $grayMediumLight: #eaeaea;
-//$grayLight: #999999;
-//$grayLighter: #999999;
-//$gray: #888888;
-//$grayDarker: #777777;
+$grayLight: #999999;
+$grayLighter: #999999;
+$gray: #888888;
+$grayDarker: #777777;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box; 
